@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 465A: http://codeforces.com/problemset/problem/465/A
+Solved on: 2015-02-13
+Result: Accepted 46 ms 8 KB
+'''
+
 def main():
 	n=int(raw_input())
 	cell=raw_input()

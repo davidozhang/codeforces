@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 474A: http://codeforces.com/problemset/problem/474/A
+Solved on: 2015-02-09
+Result: Accepted 46 ms 4 KB
+'''
+
 def make(s, direction):
 	result={}
 	if direction=='L':

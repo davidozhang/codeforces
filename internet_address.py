@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 245B: http://codeforces.com/problemset/problem/245/B
+Solved on: 2015-02-17
+Result: Accepted 92 ms 8 KB
+'''
+
 def main():
 	counter=0
 	_input=raw_input()

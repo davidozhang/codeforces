@@ -1,6 +1,12 @@
 #!/usr/bin/python
 from sets import Set
 
+'''
+Problem 404A: http://codeforces.com/problemset/problem/404/A
+Solved on: 2015-02-20
+Result: Accepted 62 ms 392 KB
+'''
+
 def check(s):
 	return True if len(s)==1 else False
 

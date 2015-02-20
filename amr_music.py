@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 507A: http://codeforces.com/problemset/problem/507/A
+Solved on: 2015-02-15
+Result: Accepted 46 ms 8 KB
+'''
+
 def main():
 	result={}
 	output=0

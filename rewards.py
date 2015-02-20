@@ -1,6 +1,12 @@
 #!/usr/bin/python
 import math
 
+'''
+Problem 448A: http://codeforces.com/problemset/problem/448/A
+Solved on: 2015-02-09
+Result: Accepted 46 ms 4 KB
+'''
+
 def main():
 	fc, sc, tc=map(int, raw_input().split())
 	fm, sm, tm=map(int, raw_input().split())

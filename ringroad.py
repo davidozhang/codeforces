@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 339B: http://codeforces.com/problemset/problem/339/B
+Solved on: 2015-02-11
+Result: Accepted 218 ms 5244 KB
+'''
+
 def main():
 	n,m=map(int, raw_input().split())
 	lst=[]

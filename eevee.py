@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 452A: http://codeforces.com/problemset/problem/452/A
+Solved on: 2015-02-17
+Result: Accepted 46 ms 4 KB
+'''
+
 def convert(s):
 	_dict={}
 	counter=0

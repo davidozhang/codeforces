@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 263A: http://codeforces.com/problemset/problem/263/A
+Solved on: 2015-02-10
+Result: Accepted 92 ms 4 KB
+'''
+
 def main():
 	for i in range(0,5):
 		n=raw_input()

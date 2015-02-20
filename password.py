@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 94A: http://codeforces.com/problemset/problem/94/A
+Solved on: 2015-02-16
+Result: Accepted 92 ms 8 KB
+'''
+
 def slice(s):
 	_list=[]
 	i=0

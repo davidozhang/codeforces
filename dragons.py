@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 230A: http://codeforces.com/problemset/problem/230/A
+Solved on: 2015-02-15
+Result: Accepted 92 ms 72 KB
+'''
+
 def main():
 	result={}
 	succeed=True

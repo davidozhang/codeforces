@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 116A: http://codeforces.com/problemset/problem/116/A
+Solved on: 2015-02-06
+Result: Accepted 124 ms 20 KB
+'''
+
 def main():
 	n=int(raw_input())
 	num=0

@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 344A: http://codeforces.com/problemset/problem/344/A
+Solved on: 2015-02-08
+Result: Accepted 186 ms 1604 KB
+'''
+
 def main():
 	cur=''
 	result=0

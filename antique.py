@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 441A: http://codeforces.com/problemset/problem/441/A
+Solved on: 2015-02-11
+Result: Accepted 62 ms 40 KB
+'''
+
 def main():
 	n, v=map(int, raw_input().split())
 	nums=[]

@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 116A: http://codeforces.com/problemset/problem/131/A
+Solved on: 2015-02-16
+Result: Accepted 61 ms 12 KB
+'''
+
 def main():
 	caps=True
 	word=raw_input()

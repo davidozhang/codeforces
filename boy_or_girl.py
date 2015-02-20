@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 236A: http://codeforces.com/problemset/problem/236/A
+Solved on: 2015-02-08
+Result: Accepted 122 ms 12 KB
+'''
+
 def main():
 	letters={}
 	name=raw_input()

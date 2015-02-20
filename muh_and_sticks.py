@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 471A: http://codeforces.com/problemset/problem/471/A
+Solved on: 2015-02-09
+Result: Accepted 61 ms 4 KB
+'''
+
 def main():
 	result={}
 	lst=raw_input().split()

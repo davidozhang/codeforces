@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 61A: http://codeforces.com/problemset/problem/61/A
+Solved on: 2015-02-09
+Result: Accepted 62 ms 8 KB
+'''
+
 def main():
 	first=raw_input()
 	second=raw_input()

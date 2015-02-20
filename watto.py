@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 514C: http://codeforces.com/problemset/problem/514/C
+Solved on: INCOMPLETE
+Result:
+'''
+
 def hash(s):
 	result=''
 	for i in s:

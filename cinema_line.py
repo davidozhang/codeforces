@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 349A: http://codeforces.com/problemset/problem/349/A
+Solved on: 2015-02-15
+Result: Accepted 248 ms 3836 KB
+'''
+
 def main():
 	result={25:0, 50:0, 100:0}
 	success=True

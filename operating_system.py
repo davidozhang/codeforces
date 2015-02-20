@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 158C: http://codeforces.com/problemset/problem/158/C
+Solved on: 2015-02-20
+Result: Accepted 92 ms 8 KB
+'''
+
 class OS:
 	def __init__(self):
 		self.path=['/']
