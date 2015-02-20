@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 119A: http://codeforces.com/problemset/problem/119/A
+Solved on: 2015-02-08
+Result: Accepted 92 ms 8 KB
+'''
+
 class Game:
 	def __init__(self,a,b,n):
 		self.bool=1

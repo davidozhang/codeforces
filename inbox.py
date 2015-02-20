@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 465B: http://codeforces.com/problemset/problem/465/B
+Solved on: 2015-02-20
+Result: Accepted 46 ms 20 KB
+'''
+
 def traverse(lst):
 	count, check=0, False
 	for i in range(len(lst)):

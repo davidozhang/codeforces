@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 339A: http://codeforces.com/problemset/problem/339/A
+Solved on: 2015-02-15
+Result: Accepted 124 ms 4 KB
+'''
+
 def main():
 	result={1:0, 2:0, 3:0}
 	output=''

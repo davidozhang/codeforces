@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 141A: http://codeforces.com/problemset/problem/141/A
+Solved on: 2015-02-08
+Result: Accepted 92 ms 8 KB
+'''
+
 def add(s):
 	result={}
 	for i in s:

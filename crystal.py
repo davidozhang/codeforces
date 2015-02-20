@@ -1,6 +1,12 @@
 #!/usr/bin/python
 import math
 
+'''
+Problem 454A: http://codeforces.com/problemset/problem/454/A
+Solved on: 2015-02-09
+Result: Accepted 46 ms 4 KB
+'''
+
 class Crystal:
 	def __init__(self, n):
 		self.n=n

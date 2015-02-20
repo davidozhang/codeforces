@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 78A: http://codeforces.com/problemset/problem/78/A
+Solved on: 2015-02-17
+Result: Accepted 92 ms 4 KB
+'''
+
 def main():
 	success=True
 	for i in range(0,3):

@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 151B: http://codeforces.com/problemset/problem/151/B
+Solved on: 2015-02-18
+Result: Accepted 124 ms 84 KB
+'''
+
 def _max(_dict, key):
 	return max([_dict[i][key] for i in _dict])
 

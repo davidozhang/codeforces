@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 66A: http://codeforces.com/problemset/problem/66/A
+Solved on: 2015-02-21
+Result: Accepted 92 ms 8 KB
+'''
+
 def main():
 	_input=long(raw_input())
 	if _input<1<<7:

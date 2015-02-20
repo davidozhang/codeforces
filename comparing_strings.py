@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 186A: http://codeforces.com/problemset/problem/186/A
+Solved on: 2015-02-17
+Result: Accepted 218 ms 2224 KB
+'''
+
 def main():
 	difference=0
 	first=raw_input()

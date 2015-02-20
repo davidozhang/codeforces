@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 144A: http://codeforces.com/problemset/problem/144/A
+Solved on: 2015-02-10
+Result: Accepted 92 ms 4 KB
+'''
+
 def main():
 	n=int(raw_input())
 	soldiers=map(int, raw_input().split())

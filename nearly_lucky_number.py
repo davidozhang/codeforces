@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 110A: http://codeforces.com/problemset/problem/110/A
+Solved on: 2015-02-08
+Result: Accepted 92 ms 8 KB
+'''
+
 def main():
 	total=0
 	numbers={}

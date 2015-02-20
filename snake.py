@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 510A: http://codeforces.com/problemset/problem/510/A
+Solved on: 2015-02-14
+Result: Accepted 46 ms 8 KB
+'''
+
 def main():
 	n, m=map(int, raw_input().split())
 	body='#'*m

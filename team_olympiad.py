@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 490A: http://codeforces.com/problemset/problem/490/A
+Solved on: 2015-02-16
+Result: Accepted 421 ms 60 KB
+'''
+
 def main():
 	output=0
 	output_list=[]

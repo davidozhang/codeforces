@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+'''
+Problem 63A: http://codeforces.com/problemset/problem/63/A
+Solved on: 2015-02-16
+Result: Accepted 92 ms 8 KB
+'''
+
 def main():
 	order=['rat','woman/child','man','captain']
 	result={}
