@@ -3,6 +3,7 @@
 '''
 Problem 41A: http://codeforces.com/problemset/problem/41/A
 Solved on: 2015-02-08
+Updated on: 2015-03-08
 Result: Accepted 92 ms 4 KB
 '''
 
@@ -13,10 +14,7 @@ def reverse(word):
 
 def main():
 	s=raw_input()
-	if reverse(raw_input())==s:
-		print 'YES'
-	else:
-		print 'NO'
+	print 'YES' if reverse(raw_input())==s else print 'NO'
 
 if __name__=='__main__':
 	main()

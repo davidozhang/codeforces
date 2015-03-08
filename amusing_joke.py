@@ -3,6 +3,7 @@
 '''
 Problem 141A: http://codeforces.com/problemset/problem/141/A
 Solved on: 2015-02-08
+Updated on: 2015-03-08
 Result: Accepted 92 ms 8 KB
 '''
 
@@ -18,13 +19,8 @@ def add(s):
 def main():
 	merged=raw_input()+raw_input()
 	pile=raw_input()
-	merged_count=add(merged)
-	pile_count=add(pile)
-
-	if merged_count==pile_count:
-		print 'YES'
-	else:
-		print 'NO'
+	merged_count, pile_count=add(merged), add(pile)
+	print 'YES' if merged_count==pile_count else 'NO'
 
 if __name__=='__main__':
 	main()
